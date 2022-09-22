@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeomHui-Lee&count_private=true&include_all_commits=false)
-
 <!--
 **BeomHui-Lee/BeomHui-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
