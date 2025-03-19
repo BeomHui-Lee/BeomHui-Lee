@@ -1,3 +1,52 @@
+# 👋 안녕하세요, 이범희입니다!
+
+프론트엔드 개발과 AI 엔지니어링을 결합하여 새로운 가치를 만들고 있습니다.
+
+## 🌱 주요 관심사
+
+- 프론트엔드 개발과 AI 통합
+- 사용자 경험 최적화
+- 인터랙티브 웹 애플리케이션
+- 3D 웹 시각화
+
+## 🚀 최근 프로젝트: PromtEnd
+
+<div align="center">
+  <img src="https://github.com/BeomHui-Lee/promtend/raw/main/public/images/github-preview.png" alt="PromtEnd 프리뷰" width="100%" />
+
+  <h3>PromtEnd - AI Frontend Engineering</h3>
+  <p><i>프론트엔드 개발과 AI 프롬프트 엔지니어링이 결합된 개인 포트폴리오</i></p>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white"/>
+  </div>
+  
+  <div>
+    <a href="https://github.com/BeomHui-Lee/promtend" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+    </a>
+    <a href="https://promtend.com" target="_blank">
+      <img src="https://img.shields.io/badge/Live Demo-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+    </a>
+  </div>
+</div>
+
+### 주요 기능
+
+- **플레이그라운드**: 추첨 시뮬레이터, 게임 등 인터랙티브 요소
+- **실험실**: GPT 자동 코드리뷰 등 AI 활용 개발 도구
+- **3D 시각화**: Three.js 기반 동적 배경 및 애니메이션
+- **반응형 디자인**: 모든 디바이스에서 최적화된 경험
+
+<div align="center">
+  <img src="https://github.com/BeomHui-Lee/promtend/raw/main/public/images/github-features.png" alt="PromtEnd 기능 스크린샷" width="100%" />
+</div>
+
+## 💻 기술 스택
+
 <h3>Skill</h3>
 
 <h4>Language</h4>
@@ -59,20 +108,22 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </div>
 
-<!-- <h3>Stat</h3> -->
-<!-- <div>
-  <table>
-    <tr>
-      <td align="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=BeomHui-Lee&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-      </td>
-      <td align="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeomHui-Lee&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" align="left" style="width: 100%" />
-      </td>
-    </tr>
-  </table>
+## 📫 연락처
+
+<div>
+  <a href="mailto:beomhui@promtend.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/BeomHui-Lee">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://merciful-mongoose-a9b.notion.site/15be6dbc7dd9802aa71cfeea35ea90bf">
+    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
 </div>
- -->
- <hr />
-<h3>Blog</h3>
-<a href="https://frontend-study.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/> </a>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BeomHui-Lee&color=blueviolet" alt="Profile Views" />
+</p>
