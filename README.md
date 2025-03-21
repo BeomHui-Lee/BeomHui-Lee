@@ -12,7 +12,7 @@
 ## 🚀 최근 프로젝트: PromtEnd
 
 <div align="center">
-  <img src="https://github.com/BeomHui-Lee/promtend/raw/main/public/images/github-preview.png" alt="PromtEnd 프리뷰" width="100%" />
+  <img src="https://www.promtend.com/images/github-preview.png" alt="PromtEnd 프리뷰" width="100%" />
 
   <h3>PromtEnd - AI Frontend Engineering</h3>
   <p><i>프론트엔드 개발과 AI 프롬프트 엔지니어링이 결합된 개인 포트폴리오</i></p>
@@ -42,7 +42,7 @@
 - **반응형 디자인**: 모든 디바이스에서 최적화된 경험
 
 <div align="center">
-  <img src="https://github.com/BeomHui-Lee/promtend/raw/main/public/images/github-features.png" alt="PromtEnd 기능 스크린샷" width="100%" />
+  <img src="https://www.promtend.com/images/github-features.png" alt="PromtEnd 기능 스크린샷" width="100%" />
 </div>
 
 ## 💻 기술 스택
